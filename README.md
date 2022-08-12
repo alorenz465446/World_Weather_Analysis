@@ -6,11 +6,11 @@ Help improve the PlanMyTrip app by using OpenWeather API and Google Maps API to 
 
 ## Examples
 
-### travel destinations and nearby hotel options
+#### travel destinations and nearby hotel options
 
 <img width="860" alt="WeatherPy_travel_map_markers" src="https://user-images.githubusercontent.com/107652317/184453265-6e6d3e25-50d9-4127-bbd7-ed128d5a394c.png">
 
-### travel itinerary
+#### travel itinerary
 
 <img width="454" alt="WeatherPy_travel_map" src="https://user-images.githubusercontent.com/107652317/184453199-64c1ef2f-3a69-4efd-bec1-3c0325cb76f6.png">
 
